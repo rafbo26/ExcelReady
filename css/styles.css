@@ -10239,3 +10239,9 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
+
+.video-frame {
+  width: 100%;
+  height: 25em;
+}
+
